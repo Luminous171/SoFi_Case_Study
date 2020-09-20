@@ -1,7 +1,5 @@
 # SoFi: Reimagining Personal Finances
-### Eli Holden 9/20/20
-##### Homework Assignment 1
-
+### Eli Holden 9/20/20 (Homework Assignment 1)
 
 In finance there is a concept of a moral hazard. Imagine a friend asking to borrow $10 and promising to pay it back in a day. That friend has properly aligned interests because he or she wants to maintain the friendship which will only happen upon prompt and full repayment. However, imagine lending $10 to a stranger. That stranger poses a moral hazard because despite keeping their word there is no incentive for that person to pay back the money. These moral hazards put barriers in the financial world that typically cause lower availability of financial capital and higher costs to borrow.
 
