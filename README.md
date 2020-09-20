@@ -1,6 +1,7 @@
 # SoFi: Reimagining Personal Finances
-## Eli Holden 9/20/20
-### Homework Assignment 1
+### Eli Holden 9/20/20
+##### Homework Assignment 1
+
 
 In finance there is a concept of a moral hazard. Imagine a friend asking to borrow $10 and promising to pay it back in a day. That friend has properly aligned interests because he or she wants to maintain the friendship which will only happen upon prompt and full repayment. However, imagine lending $10 to a stranger. That stranger poses a moral hazard because despite keeping their word there is no incentive for that person to pay back the money. These moral hazards put barriers in the financial world that typically cause lower availability of financial capital and higher costs to borrow.
 
@@ -16,7 +17,7 @@ A quick survey of the industry landscape shows why the over $1T student loan mar
 
 SoFi is not a solution for government loans nor can any private bank be since the repercussions of defaults mean that a government can raise taxes, but a private bank goes out of business. SoFi targets the traditional and non-traditional private lenders such as Sallie Mae, Discover, Ascent, Stride, and Earnest. The solution to a traditional private lender is the non-traditional underwriting process. Forbes describes perfectly how SoFi takes advantage of the weaknesses with the FICO score model,
 
-“If you do not use credit, you will not have a credit score. However, millennials who decide to save money and avoid credit can actually be an excellent credit risk. A lender who quickly realized this is SoFi. Rather than relying exclusively upon your FICO, SoFi uses an underwriting model that also considers your university, course of study, post-graduation employment and income. SoFi's approach to underwriting may sound old-fashioned. I would argue that it is refreshingly old-fashioned.” [4]
+> “If you do not use credit, you will not have a credit score. However, millennials who decide to save money and avoid credit can actually be an excellent credit risk. A lender who quickly realized this is SoFi. Rather than relying exclusively upon your FICO, SoFi uses an underwriting model that also considers your university, course of study, post-graduation employment and income. SoFi's approach to underwriting may sound old-fashioned. I would argue that it is refreshingly old-fashioned.” [4]
 
 Others have come up with creative ways to be better aligned, but fail to realize the student’s best interests. For example, some non-traditional models use an income share agreement where upon graduation the lender receives a portion of the annual pay from the worker. This model most certainly works against the borrower because of the years of lower income they realize upon graduation. SoFi targets the altruistic side of lending by giving free services to its members such as financial planning advice, free will drafting, networking events, a Facebook community, discounts on SAT/ACT prep courses, personalized action plans to help you get a raise, personalized career advice that includes one-on-one coaching, unemployment protection program that helps you with your job search and can even pause a loan, and most importantly education on the costs of borrowing and financial aid options even when not recommending SoFi as the final solution. [1] Lastly, the benefit of SoFi offering multiple financial services of lending (mortgages, student aid, small business and personal) as well as investing, insurance, and cash management solutions creates convenience and savings for its members.
 
